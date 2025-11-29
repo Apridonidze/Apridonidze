@@ -47,12 +47,12 @@ A typing game with custom themes and font sizes. Tracks user progress locally fo
 ### Driver-Tickets
 A web app for managing driver tickets, allowing users to track, answer, and save tickets.  
 **Technologies:** React + Vite, Bootstrap, Express, MySQL  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apridonidze/driver-tickets) [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://driver-tickets-ksec.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apridonidze/driver-tickets) [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://driver-tickets.vercel.app/)
 
 ### Portfolio
 My personal portfolio showcasing projects, skills, and experience.  
 **Technologies:** React, Vite, CSS  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apridonidze/portfolio) [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://giorgi-aphridonidze.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apridonidze/portfolio) [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://portfolio-fbhn.vercel.app/)
 
 ---
 
