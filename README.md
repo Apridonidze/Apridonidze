@@ -65,4 +65,4 @@ My personal portfolio showcasing projects, skills, and experience.
 ## Contact
 - **Email:** [giorgiapridonidze08@gmail.com](mailto:giorgiapridonidze08@gmail.com)  
 - **LinkedIn:** [Giorgi Aphridonidze](https://www.linkedin.com/in/giorgi-aphridonidze-7aa896291/)  
-- **Resume:** [resume.pdf]([https://media.licdn.com/dms/document/media/v2/D4D2DAQFHIXC-GSiKxQ/profile-treasury-document-pdf-analyzed/B4DZrUXRESGwAg-/0/1764499462107?e=1765411200&v=beta&t=SCrNl4eali3-EfoUB-MZKULyKxcrjcsXjovTHPSkfTU](https://media.licdn.com/dms/document/media/v2/D4D2DAQGVScuWlaLg7A/profile-treasury-document-pdf-analyzed/B4DZrYsQ74IEAk-/0/1764572075578?e=1765411200&v=beta&t=BKTWGD6d20CJKJWE98xG25PnQq0B03hVesStvuXNiqo))
+- **Resume:** [resume.pdf]([https://media.licdn.com/dms/document/media/v2/D4D2DAQGVScuWlaLg7A/profile-treasury-document-pdf-analyzed/B4DZrYsQ74IEAk-/0/1764572075578?e=1765411200&v=beta&t=BKTWGD6d20CJKJWE98xG25PnQq0B03hVesStvuXNiqo])
