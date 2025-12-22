@@ -57,12 +57,8 @@ My personal portfolio showcasing projects, skills, and experience.
 
 ---
 
-## Education
-**Ekvtime Takaishvili's N163 Public High School** – High School Student  
-
----
-
 ## Contact
 - **Email:** [giorgiapridonidze08@gmail.com](mailto:giorgiapridonidze08@gmail.com)  
 - **LinkedIn:** [Giorgi Aphridonidze](https://www.linkedin.com/in/giorgi-aphridonidze-7aa896291/)  
-- **Resume:** [resume.pdf](https://media.licdn.com/dms/document/media/v2/D4D2DAQGF4tbxuqXFNg/profile-treasury-document-pdf-analyzed/B4DZrYu7xnJIAk-/0/1764572775372?e=1765411200&v=beta&t=Ls47176OL8qA8yfYgfSuu0w6aP_iKKDbLCwr_gv9GqA)
+- **Resume:** [resume.pdf]([https://media.licdn.com/dms/document/media/v2/D4D2DAQGF4tbxuqXFNg/profile-treasury-document-pdf-analyzed/B4DZrYu7xnJIAk-/0/1764572775372?e=1765411200&v=beta&t=Ls47176OL8qA8yfYgfSuu0w6aP_iKKDbLCwr_gv9GqA](https://media.licdn.com/dms/document/media/v2/D4E2DAQFsVdbp0C91uw/profile-treasury-document-pdf-analyzed/B4EZtFKMWkJQAg-/0/1766391860815?e=1767225600&v=beta&t=rHoad4H-qrVHnk0NXVG3VRgdEYxYNcYD9qxfHE7h4vk))
+
