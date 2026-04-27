@@ -21,7 +21,7 @@ Currently, I’m building advanced personal projects to simulate real-world prod
 ## ⚡ Tech Stack
 
 ### Frontend
-React, JavaScript, Vite, Bootstrap, HTML, CSS
+React, JavaScript, Vite, Bootstrap, HTML, CSS, State Managment
 
 ### Backend
 Node.js, Express.js
@@ -39,7 +39,12 @@ MySQL
 - Environment Management
 
 ### DevOps
-Docker, Vercel, Railway, Git
+ - Vercel
+ - Railway
+ - Docker
+ - Git
+ - GitHub
+
 ---
 
 ## 🎯 What I Deliver
