@@ -8,58 +8,47 @@
 ---
 
 ## About Me
-Fullstack Developed based in Georgia, experienced in building practical and user-friendly web applications. I enjoy solving real-world problems through code and continuously learning new technologies to improve my skills.  
+Fullstack Web Developer based in Georgia, focused on building **production-ready web applications** using React and Node.js.
 
-Currently, I am focusing on developing personal projects to strengthen my understanding of full-stack development and gain hands-on experience in building scalable web applications.
+I specialize in developing systems that go beyond basic CRUD apps — including:
+- Payment integrations (Stripe + webhooks)
+- Real-time features (WebSockets)
+- Scalable backend architectures
 
----
+I care about **performance, clean code, and long-term maintainability**, not just making things “work”.
 
-## Skills
+Currently, I’m building advanced personal projects to simulate real-world production systems and strengthen my engineering depth.
+## ⚡ Tech Stack
+
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+React, JavaScript, Vite, Bootstrap, HTML, CSS
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+Node.js, Express.js
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+MySQL
 
-### DevOps & Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Advanced
+- REST API Design
+- Authentication (JWT)
+- Stripe Payments & Webhooks
+- WebSockets (Real-time systems)
+- Zod Validation
+- Rate Limiting & API Security
+- Environment Management
 
+### DevOps
+Docker, Vercel, Railway, Git
 ---
 
-## ⚙️ Backend Capabilities
+## 🎯 What I Deliver
 
-- REST API design & architecture
-- Authentication & authorization (JWT)
-- Payments integration (Stripe + webhooks)
-- Real-time systems (WebSockets)
-- Request validation (Zod)
-- Rate limiting & API security
-- Environment & secrets management (.env)
-
----
-
-## 🎯 What I Can Build
-
-- Fullstack web applications (React + Node.js)
-- E-commerce systems (payments, orders, dashboards)
-- Real-time features (chat, notifications, live updates)
-- Analytics dashboards (Chart.js)
-- Scalable backend services with clean architecture
-- Production-ready deployments (Vercel + Railway + Docker)
-
-</div>
+- Fullstack applications from idea → production
+- E-commerce systems with secure payments
+- Real-time apps (chat, notifications, live updates)
+- Clean, scalable backend architecture
+- Fast, responsive frontend with optimized performance
 
 ---
 
