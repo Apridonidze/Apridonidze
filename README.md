@@ -5,8 +5,6 @@
 
 </div>
 
----
-
 ## About Me
 Fullstack Web Developer based in Georgia, focused on building **production-ready web applications** using React and Node.js.
 
@@ -18,6 +16,7 @@ I specialize in developing systems that go beyond basic CRUD apps — including:
 I care about **performance, clean code, and long-term maintainability**, not just making things “work”.
 
 Currently, I’m building advanced personal projects to simulate real-world production systems and strengthen my engineering depth.
+
 ## ⚡ Tech Stack
 
 ### Frontend
@@ -39,11 +38,11 @@ MySQL
 - Environment Management
 
 ### DevOps
- - Vercel
- - Railway
- - Docker
- - Git
- - GitHub
+- Vercel
+- Railway
+- Docker
+- Git
+- GitHub
 
 ---
 
