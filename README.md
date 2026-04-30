@@ -1,23 +1,37 @@
 # Giorgi Apridonidze
 
-Full-stack developer focused on building fast, scalable, and maintainable web applications using React and Node.js.  
-I turn ideas, designs, and existing codebases into clean, production-ready systems with strong architecture and best practices.
+Full-stack developer building fast, scalable web applications with React and Node.js.
 
 ---
 
 ## Tech Stack
 
-**Frontend**  
-React • State Management • Bootstrap • CSS • Recharts • JavaScript • HTML  
+### Frontend
+React • Next.js • JavaScript
 
-**Backend**  
-Node.js • Express • REST APIs • WebSockets • Webhooks • Rate Limiting • JWT • Zod  
+### Backend
+Node.js • Express
 
-**Database & Integrations**  
-MySQL • Stripe • SendGrid  
+### Database & Tools
+MySQL • Docker • Git • GitHub • Vercel
 
-**Tools & DevOps**  
-Git • GitHub • Docker • Vercel • Railway  
+---
+
+## Focus
+
+- MVP to production-ready systems  
+- Clean and maintainable architecture  
+- API design and backend performance  
+- Real-time applications (WebSockets)  
+- Authentication systems (JWT)  
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apridonidze&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apridonidze&layout=compact&hide_border=true)
 
 ---
 
