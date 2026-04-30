@@ -90,7 +90,7 @@ Recruitment platform connecting employees and recruiters
 
 ## 📫 Contact
 
-Email: giorgiapridonidze08@email.com <br/>
-Portfolio: https://portfolio-app-rouge-alpha.vercel.app/ <br/>
-LinkedIn: https://linkedin.com/in/yourprofile <br/>
-Upwork : https://www.upwork.com/freelancers/~01c18a1192545fe285 <br/>
+📧 **Email:** giorgiapridonidze08@email.com  
+🌐 **Portfolio:** https://portfolio-app-rouge-alpha.vercel.app/  
+💼 **LinkedIn:** https://linkedin.com/in/yourprofile  
+🚀 **Upwork:** https://www.upwork.com/freelancers/~01c18a1192545fe285  
