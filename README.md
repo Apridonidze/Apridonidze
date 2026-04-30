@@ -11,7 +11,7 @@ I build high-performance fullstack web applications using React and Node.js—fr
 
 ## Contact
 
-Email: your-email@example.com  
+Email: giorgiapridonidze08@gmail.com  
 Portfolio: https://portfolio-app-rouge-alpha.vercel.app/
 Linkedin : https://www.linkedin.com/notifications/
 UpWork : https://www.upwork.com/freelancers/~01c18a1192545fe285
