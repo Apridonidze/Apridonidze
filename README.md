@@ -70,8 +70,7 @@ Recruitment platform connecting employees and recruiters
 
 ## 💼 Experience
 
-**Frontend Developer — Upwork**  
-`2026 Jan`
+**Frontend Developer — Upwork** `2026 Jan`
 
 - Built responsive UI from design mockups  
 - Improved performance and UX across devices  
@@ -79,8 +78,7 @@ Recruitment platform connecting employees and recruiters
 
 ---
 
-**Frontend Developer — Upwork**  
-`2023 Jul`
+**Frontend Developer — Upwork** `2023 Jul`
 
 - Developed authentication UI (login/signup)  
 - Implemented validation and responsive design  
@@ -88,8 +86,7 @@ Recruitment platform connecting employees and recruiters
 
 ---
 
-**Backend Developer — Independent Contractor**
-`2026 Jan - Feb`
+**Backend Developer — Independent Contractor** `2026 Jan - Feb`
 
 - Built Node.js REST APIs  
 - Designed MySQL database architecture  
