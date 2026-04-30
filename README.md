@@ -9,17 +9,17 @@ Specialized in turning real-world problems into clean, production-ready systems 
 
 ## 🧠 Tech Stack
 
-**Frontend**  
-React • Next.js • JavaScript • HTML • CSS  
+### Frontend
+React • Next.js • JavaScript (ES6+) • HTML5 • CSS3
 
-**Backend**  
-Node.js • Express • REST APIs • WebSockets • JWT  
+### Backend
+Node.js • Express.js • REST APIs • WebSockets • JWT Authentication
 
-**Database & Services**  
-MySQL • Stripe • SendGrid  
+### Database & Services
+MySQL • Stripe • SendGrid
 
-**Tools**  
-Git • GitHub • Docker • Vercel • Railway  
+### DevOps & Tools
+Git • GitHub • Docker • Vercel • Railway
 
 ---
 
