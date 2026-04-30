@@ -1,29 +1,34 @@
 # Giorgi Apridonidze
 
-Full-stack developer building fast, scalable web applications with React and Node.js.
+Full-stack developer focused on building scalable web applications with React and Node.js.
+
+I specialize in turning ideas into production-ready systems with clean architecture, performance in mind, and long-term maintainability.
 
 ---
 
-## Tech Stack
+## Stack
 
-### Frontend
-React • Next.js • JavaScript
+**Frontend**  
+React • Next.js • JavaScript • HTML • CSS  
 
-### Backend
-Node.js • Express
+**Backend**  
+Node.js • Express • REST APIs • WebSockets • JWT  
 
-### Database & Tools
-MySQL • Docker • Git • GitHub • Vercel
+**Database & Services**  
+MySQL • Stripe • SendGrid  
+
+**Tools**  
+Git • GitHub • Docker • Vercel • Railway  
 
 ---
 
-## Focus
+## What I Build
 
-- MVP to production-ready systems  
-- Clean and maintainable architecture  
-- API design and backend performance  
-- Real-time applications (WebSockets)  
-- Authentication systems (JWT)  
+- SaaS products and MVPs  
+- Scalable backend systems  
+- Admin dashboards and internal tools  
+- Real-time applications  
+- API integrations and payment systems  
 
 ---
 
@@ -37,14 +42,7 @@ MySQL • Docker • Git • GitHub • Vercel
 
 ## Contact
 
-**Email**  
-giorgiapridonidze08@gmail.com  
-
-**Portfolio**  
-https://portfolio-app-rouge-alpha.vercel.app/  
-
-**LinkedIn**  
-https://www.linkedin.com/in/giorgi-apridonidze  
-
-**Upwork**  
-https://www.upwork.com/freelancers/~01c18a1192545fe285  
+Email: giorgiapridonidze08@gmail.com  
+Portfolio: https://portfolio-app-rouge-alpha.vercel.app/  
+LinkedIn: https://www.linkedin.com/in/giorgi-apridonidze  
+Upwork: https://www.upwork.com/freelancers/~01c18a1192545fe285  
