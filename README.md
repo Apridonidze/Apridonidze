@@ -1,12 +1,13 @@
-# Giorgi Apridonidze
+# Giorgi Apridonidze  
+Full-Stack Developer (React, Node.js)
 
-Full-stack developer focused on building scalable web applications with React and Node.js.
+I build high-performance full-stack web applications using React and Node.js—from MVP to scalable production systems.
 
-I specialize in turning ideas into production-ready systems with clean architecture, performance in mind, and long-term maintainability.
+My focus is delivering fast, stable, and maintainable products built with clean architecture and real-world scalability in mind.
 
 ---
 
-## Stack
+## Tech Stack
 
 **Frontend**  
 React • Next.js • JavaScript • HTML • CSS  
@@ -22,27 +23,75 @@ Git • GitHub • Docker • Vercel • Railway
 
 ---
 
-## What I Build
+## Projects
 
-- SaaS products and MVPs  
-- Scalable backend systems  
-- Admin dashboards and internal tools  
-- Real-time applications  
-- API integrations and payment systems  
+### Upwork AI Optimizer (In Progress)
+AI-powered tool for optimizing Upwork freelancer profiles
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apridonidze&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apridonidze&layout=compact&hide_border=true)
+- AI-driven profile generation using prompt engineering  
+- API integration for intelligent content suggestions  
+- Focus on conversion optimization and profile quality  
 
 ---
 
-## Contact
+### E-Commerce Application
+Full-stack e-commerce platform with authentication, payments, admin system, real-time features, and analytics.
 
-Email: giorgiapridonidze08@gmail.com  
-Portfolio: https://portfolio-app-rouge-alpha.vercel.app/  
-LinkedIn: https://www.linkedin.com/in/giorgi-apridonidze  
-Upwork: https://www.upwork.com/freelancers/~01c18a1192545fe285  
+- User authentication (JWT-based login/signup)  
+- Product browsing, search, and cart system  
+- Secure checkout with Stripe  
+- Order processing with email notifications  
+- Admin dashboard for full system management  
+- Revenue analytics (7-day / 30-day charts)  
+- Live support chat (WebSockets)  
+- Role-based access control  
+- Secure backend (rate limiting, CORS protection)  
+
+---
+
+### Jobs Platform App
+Full-stack job marketplace connecting recruiters and employees
+
+- Role-based authentication (Recruiter / Employee)  
+- Job posting, browsing, and filtering system  
+- Job applications and saved jobs  
+- Recruiter applicant management (accept/reject)  
+- Profile management with image upload  
+
+---
+
+## Experience
+
+### Frontend Web Developer | Upwork  
+*Jan 2026*
+
+- Built responsive web applications from design mockups  
+- Focused on performance, UX, and cross-browser compatibility  
+- Collaborated directly with clients for requirements and feedback  
+
+---
+
+### Frontend Web Developer | Upwork  
+*Jul 2023*
+
+- Developed responsive login/signup interfaces  
+- Implemented form validation and UI logic  
+- Ensured cross-device compatibility  
+
+---
+
+### Backend Developer (Event Management Platform)
+
+- Built Node.js REST APIs for event system  
+- Managed MySQL database architecture and performance  
+- Integrated third-party ticketing systems  
+- Improved backend structure and scalability  
+- Handled data synchronization across platforms  
+
+---
+
+## Current Focus
+
+- System design & scalable backend architecture  
+- SaaS and AI-powered applications  
+- Writing production-level clean code  
