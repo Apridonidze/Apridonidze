@@ -1,5 +1,5 @@
-# Giorgi Pridonidze  
-### Full-Stack Developer (React • Node.js)
+# Giorgi Apridonidze  
+### Full-Stack Developer | React • Node.js • MySQL 
 
 > I build fast, scalable web applications that go from idea → production.
 
