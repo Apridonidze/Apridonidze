@@ -70,7 +70,7 @@ Recruitment platform connecting employees and recruiters
 ## 💼 Experience
 
 **Frontend Developer — Upwork**  
-`2026`
+`2026 Jan`
 
 - Built responsive UI from design mockups  
 - Improved performance and UX across devices  
@@ -79,7 +79,7 @@ Recruitment platform connecting employees and recruiters
 ---
 
 **Frontend Developer — Upwork**  
-`2023`
+`2023 Jul`
 
 - Developed authentication UI (login/signup)  
 - Implemented validation and responsive design  
@@ -87,7 +87,8 @@ Recruitment platform connecting employees and recruiters
 
 ---
 
-**Backend Developer — Event Management Platform**
+**Backend Developer — Independent Contractor**
+`2026 Jan - Feb`
 
 - Built Node.js REST APIs  
 - Designed MySQL database architecture  
@@ -99,7 +100,6 @@ Recruitment platform connecting employees and recruiters
 
 ## 🎯 Current Focus
 
-- Building SaaS products  
 - System design & scalable backend architecture  
 - AI-powered applications  
 - Writing production-grade code  
@@ -108,5 +108,7 @@ Recruitment platform connecting employees and recruiters
 
 ## 📫 Contact
 
-Email: your@email.com  
+Email: giorgiapridonidze08@email.com
+Portfolio: https://portfolio-app-rouge-alpha.vercel.app/
 LinkedIn: https://linkedin.com/in/yourprofile  
+Upwork : https://www.upwork.com/freelancers/~01c18a1192545fe285
