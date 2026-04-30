@@ -1,52 +1,17 @@
 # Giorgi Apridonidze
 
-Full-stack developer focused on building scalable web applications with modern technologies.
+I build high-performance fullstack web applications using React and Node.js—from MVP to scalable production systems.My focus is not just building features, but delivering fast, stable, and maintainable products that are ready to grow. Whether you have an idea, Figma design, or an existing codebase, I can turn it into a clean, well-structured application built with best practices from day one.
 
 ## Tech Stack
 
-Frontend:
-- React
-- Next.js
-- JavaScript (ES6+)
-- HTML, CSS, Bootstrap
-
-Backend:
-- Node.js
-- Express
-
-Database:
-- MySQL
-
-Tools:
-- Git
-- GitHub
-- Vite
-- REST APIs
-
-## Projects
-
-### Upwork AI Optimizer
-Tool for improving and generating optimized Upwork profiles using AI.
-
-### Driver Tickets App
-Full-stack application for managing driver violations and tickets.
-
-### Developer Portfolio
-Responsive portfolio built with React and Vite to showcase projects and experience.
-
-## Experience
-
-- Build full-stack applications from planning to deployment
-- Design RESTful APIs and integrate frontend systems
-- Optimize UI for performance and responsiveness
-
-## Current Focus
-
-- Improving Next.js architecture skills
-- Building production-level SaaS applications
-- Exploring AI integration in web apps
+- Frontend: React, State Managment, Bootstrap, CSS,recharts.js, JavaScript , HTML
+- Backend: Node.js, ExpressJS, REST API, WebSocket, Webhooksm, Rate Limiting, JWT, Zod
+- Database & Integrations: MySQL, Stripe, SendGrid
+- Tools: Git, GitHub, Docker, Vercel, Railway
 
 ## Contact
 
 Email: your-email@example.com  
 Portfolio: https://portfolio-app-rouge-alpha.vercel.app/
+Linkedin : https://www.linkedin.com/notifications/
+UpWork : https://www.upwork.com/freelancers/~01c18a1192545fe285
