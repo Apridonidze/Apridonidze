@@ -1,63 +1,37 @@
-<div align="center">
+# Hi, I'm Giorgi 👋
 
-# Giorgi Aphridonidze
-### React + Node.js Fullstack Web Developer
+💻 Full-Stack Developer (React, Node.js, MySQL)  
+🚀 Building scalable web apps & real-world projects  
+🌍 Open to freelance & remote opportunities  
 
-</div>
+🔗 Portfolio: https://portfolio-app-rouge-alpha.vercel.app/
 
-## About Me
-Fullstack Web Developer based in Georgia, focused on building **production-ready web applications** using React and Node.js.
+## 👨‍💻 About Me
 
-I specialize in developing systems that go beyond basic CRUD apps — including:
-- Payment integrations (Stripe + webhooks)
-- Real-time features (WebSockets)
-- Scalable backend architectures
+- I build full-stack applications using React, Node.js, and MySQL  
+- Focused on clean UI, performance, and real-world usability  
+- Always improving my backend architecture and system design
 
-I care about **performance, clean code, and long-term maintainability**, not just making things “work”.
+## 🛠 Tech Stack
 
-Currently, I’m building advanced personal projects to simulate real-world production systems and strengthen my engineering depth.
+Frontend:
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 
-## ⚡ Tech Stack
+Backend:
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 
-### Frontend
-React, JavaScript, Vite, Bootstrap, HTML, CSS, State Managment
+Database:
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 
-### Backend
-Node.js, Express.js
+## 📊 GitHub Stats
 
-### Database
-MySQL
+![Stats](https://github-readme-stats.vercel.app/api?username=Apridonidze&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apridonidze&layout=compact)
 
-### Advanced
-- REST API Design
-- Authentication (JWT)
-- Stripe Payments & Webhooks
-- WebSockets (Real-time systems)
-- Zod Validation
-- Rate Limiting & API Security
-- Environment Management
+## 📫 Contact Me
 
-### DevOps
-- Vercel
-- Railway
-- Docker
-- Git
-- GitHub
-
----
-
-## 🎯 What I Deliver
-
-- Fullstack applications from idea → production
-- E-commerce systems with secure payments
-- Real-time apps (chat, notifications, live updates)
-- Clean, scalable backend architecture
-- Fast, responsive frontend with optimized performance
-
----
-
-## Contact
-- **Email:** [giorgiapridonidze08@gmail.com](mailto:giorgiapridonidze08@gmail.com)  
-- **LinkedIn:** [Giorgi Aphridonidze](https://www.linkedin.com/in/giorgi-aphridonidze-7aa896291/)  
-- **Resume:** [resume.pdf]([https://media.licdn.com/dms/document/media/v2/D4D2DAQGF4tbxuqXFNg/profile-treasury-document-pdf-analyzed/B4DZrYu7xnJIAk-/0/1764572775372?e=1765411200&v=beta&t=Ls47176OL8qA8yfYgfSuu0w6aP_iKKDbLCwr_gv9GqA](https://media.licdn.com/dms/document/media/v2/D4E2DAQFsVdbp0C91uw/profile-treasury-document-pdf-analyzed/B4EZtFKMWkJQAg-/0/1766391860815?e=1767225600&v=beta&t=rHoad4H-qrVHnk0NXVG3VRgdEYxYNcYD9qxfHE7h4vk))
-
+- Email: giorgiapridonidze08@email.com  
+- LinkedIn: https://www.linkedin.com/in/giorgi-aphridonidze-7aa896291/
+- Upwork: https://www.upwork.com/freelancers/~01c18a1192545fe285
