@@ -7,16 +7,6 @@ Specialized in turning real-world problems into clean, production-ready systems 
 
 ---
 
-## ⚡ What I Build
-
-- Full-stack SaaS applications  
-- AI-powered tools & automation systems  
-- E-commerce platforms with real business logic  
-- Real-time applications (WebSockets)  
-- Scalable backend architectures  
-
----
-
 ## 🧠 Tech Stack
 
 **Frontend**  
@@ -95,14 +85,6 @@ Recruitment platform connecting employees and recruiters
 - Integrated third-party ticketing systems  
 - Improved backend scalability and structure  
 - Managed data synchronization pipelines  
-
----
-
-## 🎯 Current Focus
-
-- System design & scalable backend architecture  
-- AI-powered applications  
-- Writing production-grade code  
 
 ---
 
