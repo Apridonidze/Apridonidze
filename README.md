@@ -1,37 +1,9 @@
-# Hi, I'm Giorgi 👋
+<h1 align="center">Hi 👋, I'm Giorgi</h1>
+<h3 align="center">build high-performance fullstack web applications using React and Node.js—from MVP to scalable production systems. My focus is not just building features, but delivering fast, stable, and maintainable products that are ready to grow. Whether you have an idea, Figma design, or an existing codebase, I can turn it into a clean, well-structured application built with best practices from day one.</h3>
 
-💻 Full-Stack Developer (React, Node.js, MySQL)  
-🚀 Building scalable web apps & real-world projects  
-🌍 Open to freelance & remote opportunities  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-🔗 Portfolio: https://portfolio-app-rouge-alpha.vercel.app/
-
-## 👨‍💻 About Me
-
-- I build full-stack applications using React, Node.js, and MySQL  
-- Focused on clean UI, performance, and real-world usability  
-- Always improving my backend architecture and system design
-
-## 🛠 Tech Stack
-
-Frontend:
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-
-Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express)
-
-Database:
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Apridonidze&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apridonidze&layout=compact)
-
-## 📫 Contact Me
-
-- Email: giorgiapridonidze08@email.com  
-- LinkedIn: https://www.linkedin.com/in/giorgi-aphridonidze-7aa896291/
-- Upwork: https://www.upwork.com/freelancers/~01c18a1192545fe285
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
