@@ -1,13 +1,23 @@
-# Giorgi Apridonidze  
-Full-Stack Developer (React, Node.js)
+# Giorgi Pridonidze  
+### Full-Stack Developer (React • Node.js)
 
-I build high-performance full-stack web applications using React and Node.js—from MVP to scalable production systems.
+> I build fast, scalable web applications that go from idea → production.
 
-My focus is delivering fast, stable, and maintainable products built with clean architecture and real-world scalability in mind.
+Specialized in turning real-world problems into clean, production-ready systems with modern web technologies.
 
 ---
 
-## Tech Stack
+## ⚡ What I Build
+
+- Full-stack SaaS applications  
+- AI-powered tools & automation systems  
+- E-commerce platforms with real business logic  
+- Real-time applications (WebSockets)  
+- Scalable backend architectures  
+
+---
+
+## 🧠 Tech Stack
 
 **Frontend**  
 React • Next.js • JavaScript • HTML • CSS  
@@ -23,75 +33,80 @@ Git • GitHub • Docker • Vercel • Railway
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
 ### Upwork AI Optimizer (In Progress)
-AI-powered tool for optimizing Upwork freelancer profiles
+AI tool that generates and optimizes Upwork freelancer profiles
 
-- AI-driven profile generation using prompt engineering  
-- API integration for intelligent content suggestions  
-- Focus on conversion optimization and profile quality  
+- AI-powered profile generation (prompt engineering)
+- Smart content suggestions via API integration
+- Focused on improving conversion rate and profile quality
 
 ---
 
-### E-Commerce Application
-Full-stack e-commerce platform with authentication, payments, admin system, real-time features, and analytics.
+### E-Commerce Platform
+Full-stack production-ready e-commerce system
 
-- User authentication (JWT-based login/signup)  
-- Product browsing, search, and cart system  
-- Secure checkout with Stripe  
-- Order processing with email notifications  
-- Admin dashboard for full system management  
+- JWT authentication system  
+- Product search, cart, and checkout (Stripe)  
+- Admin dashboard for full system control  
+- Real-time support chat (WebSockets)  
 - Revenue analytics (7-day / 30-day charts)  
-- Live support chat (WebSockets)  
-- Role-based access control  
-- Secure backend (rate limiting, CORS protection)  
+- Secure backend (rate limiting, CORS, validation)  
 
 ---
 
-### Jobs Platform App
-Full-stack job marketplace connecting recruiters and employees
+### Jobs Platform
+Recruitment platform connecting employees and recruiters
 
 - Role-based authentication (Recruiter / Employee)  
-- Job posting, browsing, and filtering system  
-- Job applications and saved jobs  
-- Recruiter applicant management (accept/reject)  
-- Profile management with image upload  
+- Job posting and application system  
+- Smart filtering and saved jobs  
+- Applicant management system  
+- Profile system with image upload  
 
 ---
 
-## Experience
+## 💼 Experience
 
-### Frontend Web Developer | Upwork  
-*Jan 2026*
+**Frontend Developer — Upwork**  
+`2026`
 
-- Built responsive web applications from design mockups  
-- Focused on performance, UX, and cross-browser compatibility  
-- Collaborated directly with clients for requirements and feedback  
-
----
-
-### Frontend Web Developer | Upwork  
-*Jul 2023*
-
-- Developed responsive login/signup interfaces  
-- Implemented form validation and UI logic  
-- Ensured cross-device compatibility  
+- Built responsive UI from design mockups  
+- Improved performance and UX across devices  
+- Worked directly with clients to refine requirements  
 
 ---
 
-### Backend Developer (Event Management Platform)
+**Frontend Developer — Upwork**  
+`2023`
 
-- Built Node.js REST APIs for event system  
-- Managed MySQL database architecture and performance  
+- Developed authentication UI (login/signup)  
+- Implemented validation and responsive design  
+- Ensured cross-browser compatibility  
+
+---
+
+**Backend Developer — Event Management Platform**
+
+- Built Node.js REST APIs  
+- Designed MySQL database architecture  
 - Integrated third-party ticketing systems  
-- Improved backend structure and scalability  
-- Handled data synchronization across platforms  
+- Improved backend scalability and structure  
+- Managed data synchronization pipelines  
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
+- Building SaaS products  
 - System design & scalable backend architecture  
-- SaaS and AI-powered applications  
-- Writing production-level clean code  
+- AI-powered applications  
+- Writing production-grade code  
+
+---
+
+## 📫 Contact
+
+Email: your@email.com  
+LinkedIn: https://linkedin.com/in/yourprofile  
