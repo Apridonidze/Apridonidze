@@ -5,7 +5,6 @@
 
 Specialized in turning real-world problems into clean, production-ready systems with modern web technologies.
 
----
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
