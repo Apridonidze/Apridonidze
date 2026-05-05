@@ -1,11 +1,9 @@
 # Giorgi Apridonidze  
-### Full-Stack Developer | React • Node.js • MySQL 
+### Full-Stack Developer | Next.js • React • Node.js • MySQL 
 
-> I build fast, scalable web applications that go from idea → production.
+Fullstack Developer focused on building scalable and user friendly applications.
 
-Specialized in turning real-world problems into clean, production-ready systems with modern web technologies.
-
-## Tech Stack
+### Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
@@ -24,72 +22,7 @@ Specialized in turning real-world problems into clean, production-ready systems 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway)
 
----
-
-## Featured Projects
-
-### Upwork AI Optimizer (In Progress)
-AI tool that generates and optimizes Upwork freelancer profiles
-
-- AI-powered profile generation (prompt engineering)
-- Smart content suggestions via API integration
-- Focused on improving conversion rate and profile quality
-
----
-
-### E-Commerce Platform
-Full-stack production-ready e-commerce system
-
-- JWT authentication system  
-- Product search, cart, and checkout (Stripe)  
-- Admin dashboard for full system control  
-- Real-time support chat (WebSockets)  
-- Revenue analytics (7-day / 30-day charts)  
-- Secure backend (rate limiting, CORS, validation)  
-
----
-
-### Jobs Platform
-Recruitment platform connecting employees and recruiters
-
-- Role-based authentication (Recruiter / Employee)  
-- Job posting and application system  
-- Smart filtering and saved jobs  
-- Applicant management system  
-- Profile system with image upload  
-
----
-
-## Experience
-
-**Frontend Developer — Upwork** `2026 Jan`
-
-- Built responsive UI from design mockups  
-- Improved performance and UX across devices  
-- Worked directly with clients to refine requirements  
-
----
-
-**Frontend Developer — Upwork** `2023 Jul`
-
-- Developed authentication UI (login/signup)  
-- Implemented validation and responsive design  
-- Ensured cross-browser compatibility  
-
----
-
-**Backend Developer — Independent Contractor** `2026 Jan - Feb`
-
-- Built Node.js REST APIs  
-- Designed MySQL database architecture  
-- Integrated third-party ticketing systems  
-- Improved backend scalability and structure  
-- Managed data synchronization pipelines  
-
----
-
-## Contact
-
+### Contact
 📧 **Email:** giorgiapridonidze08@email.com  
 🌐 **Portfolio:** https://portfolio-app-rouge-alpha.vercel.app/  
 💼 **LinkedIn:** https://linkedin.com/in/yourprofile  
