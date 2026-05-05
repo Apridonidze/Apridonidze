@@ -3,6 +3,8 @@
 
 Fullstack Developer focused on building scalable and user friendly applications.
 
+---
+
 ### Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -21,6 +23,8 @@ Fullstack Developer focused on building scalable and user friendly applications.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway)
+
+---
 
 ### Contact
 📧 **Email:** giorgiapridonidze08@email.com  
