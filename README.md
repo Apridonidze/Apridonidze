@@ -13,9 +13,13 @@ Currently, I’m looking for opportunities to contribute to real products, colla
 
 ### Tech Stack
 
-| Frontend | Backend | Database & Auth | DevOps & Tools |
-|---|---|---|---|
-| React, Next.js, JS, HTML5, CSS3 | Node.js, Express, JWT | MySQL, Stripe, SendGrid | Docker, Vercel, Railway, Git, GitHub |
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white)
 ---
 
 ### Contact
