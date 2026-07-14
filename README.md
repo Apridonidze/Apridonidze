@@ -13,8 +13,6 @@ Currently, I’m looking for opportunities to contribute to real products, colla
 
 ### Tech Stack
 
-## 🛠️ Tech Stack
-
 #### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
