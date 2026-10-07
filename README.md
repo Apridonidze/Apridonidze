@@ -14,21 +14,59 @@ Currently, I’m looking for opportunities to contribute to real products, colla
 
 ### Tech Stack
 
-| Frontend | Backend | Database & Integrations | Tools & Deployment |
-|---|---|---|---|
-| Next.js | TypeScript | MySQL | Git |
-| React | JavaScript | MongoDB | GitHub |
-| TypeScript | Python | Redis | Docker |
-| JavaScript | Node.js | Instagrapi | Vercel |
-| Bootstrap | ExpressJS | Stripe | Railway |
-| Recharts.js | FastAPI | SendGrid | Render |
-| HTML | REST API | | |
-| CSS | WebSockets | | |
-| | Webhooks | | |
-| | Rate Limiting | | |
-| | JWT | | |
-| | BullMQ | | |
-| | Zod | | |
+Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css" />
+</p>
+
+Context API · Recharts
+
+Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+</p>
+
+REST APIs · WebSockets · Webhooks · JWT · OAuth · Third-Party APIs
+
+Scraping & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=playwright" />
+</p>
+
+Cheerio · Axios · Proxies · Sessions · Cookies · Concurrent Scraping · Data Processing
+
+AI & Voice
+
+AI APIs · Telnyx · AI Voice Bots · Automated Calling Workflows
+
+Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+</p>
+
+Queues & Background Jobs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=redis" />
+</p>
+
+BullMQ · Background Workers · Job Queues
+
+APIs & Integrations
+
+Google Places API · Telnyx · Stripe · SendGrid · Third-Party APIs
+
+Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman" />
+</p>
+
+Docker Compose · Netlify · Railway
 
 ---
 
