@@ -15,26 +15,7 @@ Currently, I’m looking for opportunities to contribute to real products, colla
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
-</p
-
-<p>
-  <img src="https://skillicons.dev/icons?i=playwright" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=redis" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,nodejs,express,python,fastapi,playwright,mysql,mongodb,redis,git,github,docker,vercel,postman" />
 </p>
 
 ---
